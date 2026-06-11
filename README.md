@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Aut
 - Install Tema Enigma
 - Uninstall Tema
 
- (Kode Token : skyzodev)
+ (Kode Token : IrwanOfficial)
 
 ## System Support :
 
@@ -32,5 +32,4 @@ bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Aut
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
-- Recode By [ Skyzoe ](https://github.com/SkyzoOffc)
-- Created by [ FOXSTORE ](https://github.com/Foxstoree)
+- Created by [ IrwanOfficial ](https://github.com/IrwanOfficiall)
